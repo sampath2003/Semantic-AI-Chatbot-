@@ -146,9 +146,8 @@ def add_message(role, content, intent=None, sentiment=None, context=None):
 
 
 # Display chat history
-# ------------------------------
-# DISPLAY CHAT HISTORY (iMessage BLUE & GRAY)
-# ------------------------------
+
+
 for msg in st.session_state["messages"]:
     # USER MESSAGE (Blue bubble on right)
     if msg["role"] == "user":
