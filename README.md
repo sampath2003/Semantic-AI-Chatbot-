@@ -54,26 +54,11 @@ streamlit run app.py
 http://localhost:8501
 
 ## Screenshots
-<style>
-.grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 12px;
-}
-
-.grid img {
-  width: 100%;
-  max-width: 220px;
-  margin: auto;
-}
-</style>
-
-<div class="grid">
-  <img src="https://github.com/user-attachments/assets/7c1faa19-7aa7-4eb2-9d93-3cd8112b8751">
-  <img src="https://github.com/user-attachments/assets/1ce42c06-0d17-4f9d-9b5d-c7f031b84266">
-  <img src="https://github.com/user-attachments/assets/bbdbb868-cc6f-44b2-b32e-ccccb92707b2">
-  <img src="https://github.com/user-attachments/assets/5a6634ec-cee1-462b-ab99-ce2efdff1082">
-</div>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c1faa19-7aa7-4eb2-9d93-3cd8112b8751" width="220"/>
+  <img src="https://github.com/user-attachments/assets/1ce42c06-0d17-4f9d-9b5d-c7f031b84266" width="220"/>
+  <img src="https://github.com/user-attachments/assets/bbdbb868-cc6f-44b2-b32e-ccccb92707b2" width="220"/>
+  <img src="https://github.com/user-attachments/assets/5a6634ec-cee1-462b-ab99-ce2efdff1082" width="220"/>
+</p>
 
 
